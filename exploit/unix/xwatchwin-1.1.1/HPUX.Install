@@ -1,0 +1,14 @@
+Ported to HPUX-11 on Wed Oct 13 1999 by Stephanie.
+
+Usage:
+      This is just so cool,  
+
+Run "xwininfo" and pick out the Window id ...
+
+	% xwininfo: Window id: 0x1c0000e "VioletRed4"
+
+Plug that into xwatchwin ...
+
+	% xwatchwin -w 0x1c0000e
+
+

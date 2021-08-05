@@ -1,0 +1,7 @@
+SYS_LIBRARIES   = ${XLIB}
+SRCS            = xwatchwin.c
+OBJS            = xwatchwin.o
+MYPROGRAM       = xwatchwin
+
+SimpleProgramTarget(${MYPROGRAM})
+

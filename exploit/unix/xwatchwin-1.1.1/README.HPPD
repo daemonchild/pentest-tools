@@ -1,0 +1,16 @@
+Package name:     xwatchwin
+Version number:   1.1.1
+Original author:  George D. Drapeau and Q. Alex Zhao <azhao@cc.gatech.edu>
+Original URL:     ftp://ftp.x.org/contrib/utilities/
+HP-UX URL:        http://hpux.connect.org.uk/hppd/cgi-bin/search?package=&term=xwatchwin-
+Install tree:     /opt/xwatchwin
+Report bugs to:   steff@connect.org.uk
+Tested on:        HP 9000/780/C160 running HP-UX 11.00
+C compiler used:  Version A.11.01.02
+Purpose:
+Watch a window on another X server. Xwatchwin allows you to peek at a window on
+another X server (or the same server). To use it, you must specify the display
+name of the machine you want to watch, then the name of the window on that
+machine. VERY useful for demonstrating to a class of new students.
+Date archived:    Wed 13 Oct 1999
+Special notes:    HPUX.Install is worth a read.
